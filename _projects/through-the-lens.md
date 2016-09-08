@@ -27,6 +27,8 @@ images:
     description: Volunteer Robert Lea
   - image_path: /uploads/through_the_lens_ashlee beazley copy.jpg
     description:
+  - image_path: /uploads/through_the_lens_tara_citro.jpg
+    description:
 ---
 
 
