@@ -45,7 +45,9 @@ images:
     description:
   - image_path: /uploads/gfb15 castle night.jpg
     description:
-  - image_path: /uploads/through_the_lens_tara_citro.jpg
+  - image_path: /uploads/gfb_whistles.jpg
+    description:
+  - image_path: /uploads/smiling-actress.jpg
     description:
 ---
 
