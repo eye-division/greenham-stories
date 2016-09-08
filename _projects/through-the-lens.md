@@ -32,7 +32,7 @@ images:
 
 *An Exhibition exploring life in Oxfordshire during the First World War asseen through the eyes of young people living in the county today.*
 
-A major outdoor exhibition at the Oxford Castle, the project is theresult of a 6 month collaboration between local young people, and heritageand media professionals. Supported by the Heritage Lottery Fund. Partnersinclude Museum of Oxford, University of Oxford, Soldiers of Oxfordshireand 66 Men of Grandpont.
+A major outdoor exhibition at the Oxford Castle, the project was the result of a 6 month collaboration between local young people, and heritageand media professionals. Supported by the Heritage Lottery Fund. Partnersinclude Museum of Oxford, University of Oxford, Soldiers of Oxfordshireand 66 Men of Grandpont.
 
 [https://www.facebook.com/OxfordImagesofWW1/](https://www.facebook.com/OxfordImagesofWW1/ "Oxford Images of WW1")
 <br>[http://fetedaythings.tumblr.com](http://fetedaythings.tumblr.com)
