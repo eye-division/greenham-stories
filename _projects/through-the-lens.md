@@ -1,6 +1,6 @@
 ---
-title: "Through the Lens: Oxfordshire and the First World War"
-description: "An Exhibition exploring life in Oxfordshire during the First World War as seen through the eyes of young people living in the county today."
+title: 'Through the Lens: Oxfordshire and the First World War'
+description: An Exhibition exploring life in Oxfordshire during the First World War as seen through the eyes of young people living in the county today.
 project_date: 2016-05-01T00:00:00.000Z
 project_to_date: 2016-07-01T00:00:00.000Z
 list: true
@@ -14,16 +14,25 @@ images:
   - image_path: /uploads/through-the-lens3.jpg
     description: Group at Fricourt
   - image_path: /uploads/through-the-lens4.jpg
+    description: Stephen Barker WW1 history trail in Oxford City Centre
+  - image_path: /uploads/through_the_lens_becky.jpg
+    description: Becky King
+  - image_path: /uploads/through_the_lens_ellen_dorey.jpg
+    description: Ellen Dorey
+  - image_path: /uploads/through_the_lens_laura_photographing.jpg
+    description: "Laura Boffin photographing Ronald Leighton's grave."
+  - image_path: /uploads/through_the_lens_tara.jpg
+    description: Volunteer Tara Citro
+  - image_path: /uploads/through_the_lens_robert_lea.jpg
+    description: Volunteer Robert Lea
+  - image_path: /uploads/through_the_lens_ashlee beazley copy.jpg
     description:
 ---
-_An Exhibition exploring life in Oxfordshire during the First World War as
-seen through the eyes of young people living in the county today._
 
-A major outdoor exhibition at the Oxford Castle, the project is the
-result of a 6 month collaboration between local young people, and heritage
-and media professionals. Supported by the Heritage Lottery Fund. Partners
-include Museum of Oxford, University of Oxford, Soldiers of Oxfordshire
-and 66 Men of Grandpont.
 
-<a href="https://www.facebook.com/OxfordImagesofWW1/" title="Oxford Images of WW1" target="_blank">https://www.facebook.com/OxfordImagesofWW1/</a><br>
-<a href="http://fetedaythings.tumblr.com" target="_blank">http://fetedaythings.tumblr.com</a>
+*An Exhibition exploring life in Oxfordshire during the First World War asseen through the eyes of young people living in the county today.*
+
+A major outdoor exhibition at the Oxford Castle, the project is theresult of a 6 month collaboration between local young people, and heritageand media professionals. Supported by the Heritage Lottery Fund. Partnersinclude Museum of Oxford, University of Oxford, Soldiers of Oxfordshireand 66 Men of Grandpont.
+
+[https://www.facebook.com/OxfordImagesofWW1/](https://www.facebook.com/OxfordImagesofWW1/ "Oxford Images of WW1")
+<br>[http://fetedaythings.tumblr.com](http://fetedaythings.tumblr.com)
