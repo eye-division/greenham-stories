@@ -1,6 +1,6 @@
 ---
 title: BBC Lincoln 16 - Green Fields Beyond
-description: On Friday 15 and Saturday 16 July 2016 Lincoln played host to two days of outdoor arts events to mark the 100th anniversary of the First World War.
+description: On Friday 15 and Saturday 16 July 2016 Lincoln hosted two days of outdoor arts events to mark the 100th anniversary of the First World War.
 project_date: 2016-07-01T00:00:00.000Z
 project_to_date:
 list: true
