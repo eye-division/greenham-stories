@@ -14,3 +14,4 @@ images:
 ---
 
 
+A programme of events, talks, exhibitions accompanied the Lincoln 16 and Green Fields Beyond events in July 2016, presented by local historians and volunteers and offering the opportunity for media and event volunteers to work alongside professional media and events crews.
