@@ -11,9 +11,9 @@ video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embe
 images:
   - image_path: /uploads/Somme anniversary 2.jpg
     description:
-  - image_path: /uploads/Somme anniversary 9.jpg
+  - image_path:
     description:
-  - image_path: 'https://www.dropbox.com/sh/kgjs8etwaaouq9r/AADf6eMFVhVVxrYgVM8lXUF_a?dl=0'
+  - image_path:
     description:
 ---
 
