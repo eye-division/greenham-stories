@@ -4,7 +4,7 @@ description: 'A unique and exciting, large-scale outdoor community event will be
 project_date: 2017-09-08 00:00:00
 project_to_date:
 list: true
-highlight: false
+highlight: true
 past: false
 main_image_path: /uploads/landing-lights-shutterstock-172828403.jpg
 video_embed:
