@@ -1,11 +1,11 @@
 ---
 title: 'Through the Lens: Oxfordshire and the First World War'
 description: An Exhibition exploring life in Oxfordshire during the First World War as seen through the eyes of young people living in the county today.
-project_date: 2016-05-01T00:00:00.000Z
-project_to_date: 2016-07-01T00:00:00.000Z
+project_date: 2016-05-01 00:00:00
+project_to_date: 2016-07-01 00:00:00
 list: true
 highlight: false
-past: false
+past: true
 main_image_path: /uploads/through-the-lens1.jpg
 video_embed: '<iframe src="https://player.vimeo.com/video/173878923?color=279b99" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/173878923">Through the Lens</a> from <a href="https://vimeo.com/feteday">Fete Day</a> on <a href="https://vimeo.com">Vimeo</a>.</p>'
 images:
