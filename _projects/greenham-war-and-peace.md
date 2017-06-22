@@ -1,12 +1,12 @@
 ---
-title: 'Greenham: War and Peace'
-description: 'A unique and exciting, large-scale outdoor community event will be held on Friday 8th and Saturday 9th September 2017 at Greenham Common. Internationally acclaimed artists will be involved in the event and everyone is invited to take part. Greenham: War and Peace is a professionally led event project which is inviting hundreds of people from the local community to take part.'
+title: 'Greenham: 100 Years of War and Peace'
+description: 'A unique and exciting, large-scale outdoor community event will be held on Friday 8th and Saturday 9th September 2017 at Greenham Common. Internationally acclaimed artists will be involved in the event and everyone is invited to take part. Greenham: 100 Years of War and Peace is a professionally led event project which is inviting hundreds of people from the local community to take part.'
 project_date: 2017-09-08 00:00:00
 project_to_date:
 list: true
 highlight: true
 past: false
-main_image_path: /uploads/landing-lights-shutterstock-172828403.jpg
+main_image_path: /uploads/Screen Shot 2017-06-10 at 14.14.31.png
 video_embed:
 images:
   - image_path: /uploads/banner-workshop-in-progress.JPG
@@ -28,7 +28,7 @@ images:
 
 **New information available about Production/Technical Volunteering and Singing/Acting opportunities. Please find more information below.**
 
-Greenham: War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over &pound;35 million to local good causes since 1997
+Greenham: 100 Years of War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over &pound;35 million to local good causes since 1997
 
 **PERFORMERS, PROCESSIONS, CHOIR, VOLUNTEERS, STEWARDS, MEDIA**
 
