@@ -101,3 +101,5 @@ If you are interested in stage management, stewarding technical builds, props an
 We are offering the opportunity to join a mass choir as part of the event. Rehearsals will be led by Newbury Choral Society and Incantata and all singers are welcome to join in.
 
 Please contact Laura Boffin on&nbsp;[laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107)))&nbsp;for more information on how you can get involved!
+
+http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace
