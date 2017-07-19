@@ -157,7 +157,9 @@ Disabled Parking must be pre-booked. Please be prepared to show reservations and
 
 For drivers who are not parking and stopping you may drop off and pick up event visitors at the Control Tower car park. No need to book.
 
-For all travel enquiries please call 01635 813900.
+**For all travel enquiries please call 01635 813900.**
+
+&nbsp;
 
 This event is supported by Greenham Trust, Arts Council England and Heritage Lottery Fund with appropriate logos.&nbsp; Websites also should reflect that we are sponsored by Verbatim and the logo and partners include BBOWT, Natural England, BBC Radio Berkshire, West Berkshire Council, West Berkshire Museum, &nbsp;Corn Exchange Newbury, 101 Outdoor Creation Centre, Watermill Arts Centre and Newbury College with the support of Home Front History, Royal British Legion and numerous other partners.
 
@@ -173,7 +175,7 @@ Laura Boffin &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 
 Simon Hollingworth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On Site Producer
 
-Creative and Production Team
+**Creative and Production Team**
 
 Beth Flintoff &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Writer
 
