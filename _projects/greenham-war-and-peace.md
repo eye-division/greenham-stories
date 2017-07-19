@@ -96,9 +96,7 @@ With BBC Radio Berkshire presenter Bill Buckley, writers and historians Penny St
 
 **Saturday 11am-2pm and 6pm-7.30pm - Ticketed tours**
 
-You have been contaminated.
-
-Follow the red arrows on the fl oor. Follow all instructions for our personnel. DO NOT ATTEMPT TO LEAVE. Our theatrical guided tour will unveil the fascinating secrets locked away in Greenham’s chemical decontamination suite, part of the USAF Cold War former Wing Headquarters Building.
+You have been contaminated. Follow the red arrows on the fl oor. Follow all instructions for our personnel. DO NOT ATTEMPT TO LEAVE. Our theatrical guided tour will unveil the fascinating secrets locked away in Greenham’s chemical decontamination suite, part of the USAF Cold War former Wing Headquarters Building.
 
 The event is free but ticketed. Please book tickets via Corn Exchange Box Offi ce: www.cornexchangenew.com / 0845 5218 218&nbsp;[https://cornexchangenew.com/event/decontamination-suite-tours](https://cornexchangenew.com/event/decontamination-suite-tours)
 
