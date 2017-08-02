@@ -70,7 +70,7 @@ For more information about this production please click on the links below.
 
 **How Can I Still Get Involved?**
 
-Stewarding - We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact laura@rosaproductions.co.uk for more details.
+Stewarding - We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more details.
 
 &nbsp;
 
