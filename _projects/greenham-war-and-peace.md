@@ -50,48 +50,74 @@ images:
 ---
 
 
-Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham &nbsp;Trust which has distributed over &pound;35 million to local good causes since 1997. A FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common forms a basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrate 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common will be told by 100s of cast members from the local community led by a professional production team.
-
-**Outdoor Show on Greenham Common
-<br>8 Friday / 9 Saturday September
-<br>Event start 6.30pm
-<br>Finale at 8.30pm
-<br>Event ends 9.30pm**
-
-<br>[**Download the programme**](/uploads/greenham 8pp for web.pdf)
+[**Download the programme**](/greenham 8pp for web.pdf)
 
 [**Participants and Production Timeline**](/uploads/A Master Copy GREENHAM PARTICIPANTS AND PRODUCTION TIMELINE 1 Aug v4.pdf)
 
-**Press Pack**
+Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. The Event will be filmed for online broadcast and covered by radio and TV. It will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham &nbsp;Trust which has distributed over &pound;35 million to local good causes since 1997. A FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common forms a basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrate 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common will be told by 100s of cast members from the local community led by a professional production team.
+
+**GREENHAM:100 YEARS OF WAR AND PEACE**
+
+**FREE Outdoor Show on Greenham Common**
+
+**8/9 SEPTEMBER FRIDAY AND SATURDAY, 6.30-9.30pm, Finale at 8.30pm**
+
+**Written by Beth Flintoff
+<br>Music by Nick Bic&acirc;t&nbsp;
+<br>Performance Director Sophie Austin.
+<br>Creative Director & Producer Rosa Productions
+<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
+
+[**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
 
 For more information about this production please click on the links below.
 
-[**GREENHAM: 100 Outdoor Event**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/outdoor-event)
+GREENHAM: 100 Outdoor Event
 
-[**GREENHAM: 100 Programme**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+GREENHAM: 100 Programme
 
-[**GREENHAM:100 Travel Information**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/transport)
+GREENHAM:100 Travel Information
 
-[**GREENHAM: 100 FAQs**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/faqs)
+Book Paid Parking
 
-**How Can I Still Get Involved?**
+Book Disabled Parking
 
-Stewarding - We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more details.
+Book Bus Tickets from Newbury College
 
-**Upcoming Events**
+Free Shuttle Bus Service from Cheap Street, Newbury Town Centre
 
-Please click on the links below to find out more about each event. Tickets can be booked through the Corn Exchange Theatre, Newbury.
+GREENHAM: 100 FAQs
 
-[**Missiles, Politics and showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)
+How Can I Still Get Involved?
 
-[**Characters on the Common**](https://cornexchangenew.com/event/the-characters-on-the-common)
+Stewarding - We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact laura@rosaproductions.co.uk for more details.
 
-[**Exploring the History of the Common**](https://cornexchangenew.com/event/exploring-the-history-of-the-common)
+Upcoming Events
 
-[**Decontamination Suite Tours**](https://cornexchangenew.com/event/decontamination-suite-tours)
+Memories of Greenham Common Planes, Military, Nature, Dances, Peace
 
-[**Military History Walk**](https://cornexchangenew.com/event/military-history-walk)
+Book Launch – The Common Good by Penelope Stokes
 
-You can find more information about these events on the BBC Shows and Tours website. **[Click here for more details.](http://www.bbc.co.uk/showsandtours/shows/greenham_talks_sept17)**
+Missiles, Politics and showdown? BBC Shows and Tours
 
-![](/uploads/versions/hlf-logos---x----2182-420x---.jpg)
+Characters on the Common BBC Shows and Tours
+
+Exploring the History of the Common BBC Shows and Tours
+
+Decontamination Suite Tours
+
+Military History Walk
+
+How We Made The Show with Free Afternoon Tea
+
+Tracks Across the Common: Exhibition
+
+West Berkshire Museum: Post Event Talks
+
+Greenham: 100 Years of War and Peace
+
+Plants and Wildlife on Greenham Common
+
+Flight from Uganda: No Sense For What The Future Held
+
+Living with the Americans
