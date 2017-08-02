@@ -54,6 +54,8 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 
 **Press Pack**
 
+&nbsp;
+
 For more information about this production please click on the links below.
 
 [**GREENHAM: 100 Outdoor Event**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/outdoor-event)
@@ -85,7 +87,3 @@ Please click on the link below to find out more about each event. Tickets can be
 [**Decontamination Suite Tours**](https://cornexchangenew.com/event/decontamination-suite-tours)
 
 [**Military History Walk**](https://cornexchangenew.com/event/military-history-walk)
-
-&nbsp;
-
-&nbsp;
