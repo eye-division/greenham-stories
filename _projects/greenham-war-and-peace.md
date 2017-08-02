@@ -37,15 +37,25 @@ images:
     description: Saturday 1st July Greenham Common Banner Walk
   - image_path: /uploads/p7010463.jpg
     description: Saturday 1st July Greenham Common Banner Walk
+  - image_path: /uploads/unknown-4.jpeg
+    description: Media Training at the West Museum Berkshire
+  - image_path: /uploads/unknown-5.jpeg
+    description: Media Training at the West Berkshire Museum
+  - image_path: /uploads/unknown-6.jpeg
+    description: Media Training at the West Berkshire Museum
+  - image_path: /uploads/unknown-8.jpeg
+    description: Media Training at the West Berkshire Museum
+  - image_path: /uploads/unknown-10.jpeg
+    description: Media Training at the West Berkshire Museum
 ---
 
 
-Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham &nbsp;Trust which has distributed over &pound;35 million to local good causes since 1997. A FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common forms a basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrate 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common will be told by 100s of cast members from the local community led by a professional production team.
+Greenham: 100 Years of  War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham  Trust which has distributed over £35 million to local good causes since 1997. A FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common forms a basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrate 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common will be told by 100s of cast members from the local community led by a professional production team.
 
-**Outdoor Show on Greenham Common&nbsp;
-<br>8 Friday / 9 Saturday September&nbsp;
-<br>Event start 6.30pm&nbsp;
-<br>Finale at 8.30pm&nbsp;
+**Outdoor Show on Greenham Common
+<br>8 Friday / 9 Saturday September
+<br>Event start 6.30pm
+<br>Finale at 8.30pm
 <br>Event ends 9.30pm**
 
 <br>[**Download the programme**](/uploads/greenham 8pp for web.pdf)
@@ -53,8 +63,6 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 [**Participants and Production Timeline**](/uploads/A Master Copy GREENHAM PARTICIPANTS AND PRODUCTION TIMELINE 1 Aug v4.pdf)
 
 **Press Pack**
-
-&nbsp;
 
 For more information about this production please click on the links below.
 
@@ -66,17 +74,13 @@ For more information about this production please click on the links below.
 
 [**GREENHAM: 100 FAQs**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/faqs)
 
-&nbsp;
-
 **How Can I Still Get Involved?**
 
 Stewarding - We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more details.
 
-&nbsp;
-
 **Upcoming Events**
 
-Please click on the link below to find out more about each event. Tickets can be booked through the Corn Exchange Theatre, Newbury.&nbsp;
+Please click on the link below to find out more about each event. Tickets can be booked through the Corn Exchange Theatre, Newbury.
 
 [**Missiles, Politics and showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)
 
