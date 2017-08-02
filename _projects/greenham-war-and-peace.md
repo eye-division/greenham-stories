@@ -74,6 +74,8 @@ Stewarding - We are looking for keen individuals who would like to get involved 
 
 **Upcoming Events**
 
+Please click on the link below to find out more about each event. Tickets can be booked through the Corn Exchange Theatre, Newbury.&nbsp;
+
 [**Missiles, Politics and showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)
 
 [**Characters on the Common**](https://cornexchangenew.com/event/the-characters-on-the-common)
