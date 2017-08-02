@@ -93,3 +93,5 @@ Please click on the links below to find out more about each event. Tickets can b
 [**Military History Walk**](https://cornexchangenew.com/event/military-history-walk)
 
 You can find more information about these events on the BBC Shows and Tours website. **[Click here for more details.](http://www.bbc.co.uk/showsandtours/shows/greenham_talks_sept17)**
+
+&nbsp;
