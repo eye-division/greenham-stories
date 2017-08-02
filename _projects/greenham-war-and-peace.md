@@ -50,7 +50,7 @@ images:
 ---
 
 
-Greenham: 100 Years of  War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham  Trust which has distributed over £35 million to local good causes since 1997. A FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common forms a basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrate 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common will be told by 100s of cast members from the local community led by a professional production team.
+Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham &nbsp;Trust which has distributed over &pound;35 million to local good causes since 1997. A FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common forms a basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrate 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common will be told by 100s of cast members from the local community led by a professional production team.
 
 **Outdoor Show on Greenham Common
 <br>8 Friday / 9 Saturday September
@@ -80,7 +80,7 @@ Stewarding - We are looking for keen individuals who would like to get involved 
 
 **Upcoming Events**
 
-Please click on the link below to find out more about each event. Tickets can be booked through the Corn Exchange Theatre, Newbury.
+Please click on the links below to find out more about each event. Tickets can be booked through the Corn Exchange Theatre, Newbury.
 
 [**Missiles, Politics and showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)
 
@@ -91,3 +91,5 @@ Please click on the link below to find out more about each event. Tickets can be
 [**Decontamination Suite Tours**](https://cornexchangenew.com/event/decontamination-suite-tours)
 
 [**Military History Walk**](https://cornexchangenew.com/event/military-history-walk)
+
+You can find more information about these events on the BBC Shows and Tours website. **[Click here for more details.](http://www.bbc.co.uk/showsandtours/shows/greenham_talks_sept17)**
