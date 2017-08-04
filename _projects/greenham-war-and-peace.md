@@ -136,6 +136,8 @@ Please book tickets through the Corn Exchange or West Berkshire Museum. Please c
 
 **[Living with the Americans](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;20th October**
 
+&nbsp;
+
 [**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
 
 [](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)![](/uploads/versions/website-logos---x----3402-1309x---.jpg)
