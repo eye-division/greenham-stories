@@ -1,4 +1,4 @@
-
+ƒ
 /*
 *	Globals
 */
@@ -156,7 +156,7 @@ main {
 
   display: block;
   padding-bottom: 7em;
-    
+
   #content-header {
     @include outer-container;
     padding: 1em;
@@ -291,11 +291,11 @@ main {
 .front {
   width: 100%;
   height: 100%;
-  background-image: url("../assets/front2-sm.jpg");
+  background-image: url("../assets/front-sm.jpg");
   background-position: 50%;
   background-size: cover;
   @include media ($tablet) {
-    background-image: url("../assets/front2-lg.jpg");
+    background-image: url("../assets/front-lg.jpg");
   }
   .site-header {
     @include outer_container;
@@ -352,7 +352,7 @@ main {
   h3 {
     margin-bottom: 0;
   }
-  
+
   .project-date {
     font-size: 1.4em;
     font-family: $heading-font-family;
@@ -464,7 +464,7 @@ main {
       }
     }
   }
-  
+
   .date {
     font-size: 1.6em;
     font-family: $heading-font-family;
@@ -472,7 +472,7 @@ main {
     color: $light-gray;
     text-align: right;
   }
-  
+
   @include media($tablet) {
     #content {
       @include clearfix;
