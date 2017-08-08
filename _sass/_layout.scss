@@ -1,4 +1,4 @@
-
+ƒ
 /*
 *	Globals
 */
@@ -47,7 +47,7 @@ blockquote {
   font-style: italic;
 }
 
-.flex-fifty { 
+.flex-fifty {
   @include media ($tablet) {
     @include display(flex);
     @include flex-wrap(wrap);
@@ -164,7 +164,7 @@ blockquote {
       padding-right: 0.3rem;
       @include media ($tablet) {
         padding-right: 0.3rem;
-      } 
+      }
     }
     &:last-child a {
       padding-right: 0;
@@ -182,7 +182,7 @@ main {
 
   display: block;
   padding-bottom: 7em;
-    
+
   #content-header {
     @include outer-container;
   }
@@ -308,11 +308,11 @@ main {
 .front {
   width: 100%;
   height: 100%;
-  background-image: url("../assets/front2-sm.jpg");
+  background-image: url("../assets/front-sm.jpg");
   background-position: 50%;
   background-size: cover;
   @include media ($tablet) {
-    background-image: url("../assets/front2-lg.jpg");
+    background-image: url("../assets/front-lg.jpg");
   }
   .site-header {
     @include outer_container;
@@ -369,7 +369,7 @@ main {
   h3 {
     margin-bottom: 0;
   }
-  
+
   .project-date {
     font-family: $heading-font-family;
     text-transform: uppercase;
@@ -476,7 +476,7 @@ main {
     padding: 10px 0;
   }
 
-    .image-gallery {
+  .image-gallery {
     padding-top: 40px;
       img {
         border-radius: 5px;
@@ -491,7 +491,8 @@ main {
         box-shadow: 5px 5px 5px $highlight-color;
       }
     }
-  
+
+  }
 
   .date {
     font-size: 1.6em;
@@ -500,7 +501,7 @@ main {
     color: $light-gray;
     text-align: right;
   }
-  
+
   @include media($tablet) {
     #content {
       @include clearfix;
@@ -524,20 +525,18 @@ main {
       img {
         width: 120px;
         height: 120px;
+    }
+  }
+
+
+  .lb-data .lb-caption {
+    font-size: inherit;
+  }
+
+  .lb-data .lb-number {
+    font-size: 0.8em;
   }
 }
-
-  }
-}
-
-.lb-data .lb-caption {
-  font-size: inherit;
-}
-
-.lb-data .lb-number {
-  font-size: 0.8em;
-}
-
 
 /*
  * Headers
