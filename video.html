@@ -3,22 +3,9 @@ layout: page
 title: Video
 permalink: /video/
 main_image_path: /uploads/landing-lights-shutterstock-172828403.jpg
-video_embed: >-
-  <iframe src="https://player.vimeo.com/video/76608148" width="640" height="360"
-  frameborder="0" webkitallowfullscreen mozallowfullscreen
-  allowfullscreen></iframe>
-
-  <p><a href="https://vimeo.com/76608148">Mo Jupp Interview</a> from <a
-  href="https://vimeo.com/user21689656">Rosa Productions</a> on <a
-  href="https://vimeo.com">Vimeo</a>.</p>
-
-  <iframe src="https://player.vimeo.com/video/76600880" width="640" height="360"
-  frameborder="0" webkitallowfullscreen mozallowfullscreen
-  allowfullscreen></iframe>
-
-  <p><a href="https://vimeo.com/76600880">Sutton Taylor Demonstration</a> from <a
-  href="https://vimeo.com/user21689656">Rosa Productions</a> on <a
-  href="https://vimeo.com">Vimeo</a>.</p>
+videos:
+  - video_html: <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/rDkat7hsfbA?rel=0" frameborder="0" allowfullscreen></iframe>
+  - video_html: <iframe src="https://player.vimeo.com/video/151827190" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 images:
   - image_path: /uploads/sutton taylor2.jpg
     description: Sutton Taylor
@@ -29,10 +16,15 @@ images:
   - image_path: /uploads/mo jupp2.jpg
     description: Mo Jupp in Oxford
 ---
+
 <section class="project-intro editable"><p>Fete Day is a creative production company producing arts, cultural and heritage projects across the UK.</p></section>
 
-{% if page.video_embed %}
-  <aside class="media">
-    {{ page.video_embed }}
-  </aside>
+{% if page.videos %}
+
+		{% for video in page.videos %}
+	    {% if video.video_html %}
+	    	{{ video.video_html }}
+	    {% endif %}
+		{% endfor %}
+
 {% endif %}
