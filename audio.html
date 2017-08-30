@@ -1,0 +1,26 @@
+---
+layout: page
+title: Audio
+permalink: /audio/
+main_image_path: /uploads/landing-lights-shutterstock-172828403.jpg
+audio_embed: >-
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/81005937&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/324585680&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+images:
+  - image_path: /uploads/sutton taylor2.jpg
+    description: Sutton Taylor
+  - image_path: /uploads/wally keeler2.jpg
+    description: Wally Keeler
+  - image_path: /uploads/sutton taylor.jpg
+    description: Sutton Taylor in his studio
+  - image_path: /uploads/mo jupp2.jpg
+    description: Mo Jupp in Oxford
+---
+
+<section class="project-intro editable"><p>Fete Day is a creative production company producing arts, cultural and heritage projects across the UK.</p></section>
+
+{% if page.audio_embed %}
+  <aside class="media">
+      {{ page.audio_embed }}
+  </aside>
+{% endif %}

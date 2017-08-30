@@ -1,11 +1,14 @@
-- title: "Projects"
-  href: "/projects/"
+- title: "Video"
+  href: "/video/"
+
+- title: "Audio"
+  href: "/audio/"
 
 - title: "News"
   href: "/news/"
 
 - title: "About"
   href: "/about/"
-  
+
 - title: "Contact"
   href: "/contact/"

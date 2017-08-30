@@ -8,6 +8,15 @@ html, body {
   width: 100%;
 }
 
+/* Cloudcannon editor items - hidden on live site */
+.editor-link {
+  display: none;
+}
+
+.cms-editor-active .editor-link {
+  display: block;
+}
+
 /* sticky footer from https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ */
 
 html {
@@ -317,9 +326,10 @@ main {
   .site-header {
     @include outer_container;
     h1 {
-      display: none;
+      //display: none;
     }
-    .subtitle {
+    .title, .subtitle {
+      clear: both;
       float: right;
       font-size: 1.6rem;
       text-align: right;
@@ -336,6 +346,9 @@ main {
         margin-right: 1em;
       }
     }
+    .title {
+      max-width: 17em;
+    }
   }
 }
 
@@ -351,7 +364,7 @@ main {
   border-bottom: 1px solid $light-gray;
 }
 
-.project {
+.about {
   clear: both;
   margin-bottom: 1.5em;
   a {
@@ -470,7 +483,7 @@ main {
 /*
  * Individual project pages
  */
-.projects, .posts {
+.about, .posts {
   iframe {
     max-width: 100%;
     padding: 10px 0;
@@ -592,17 +605,7 @@ main {
 
 }
 
-.projects {
-  @extend .has-cover;
 
-  #content-header {
-    background-image: url("../assets/projects-sm.jpg");
-    @include media($tablet) {
-      background-image: url("../assets/projects-lg.jpg");
-    }
-  }
-
-}
 
 .about {
   @extend .has-cover;
