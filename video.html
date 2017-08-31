@@ -5,11 +5,14 @@ permalink: /video/
 main_image_path: /uploads/landing-lights-shutterstock-172828403.jpg
 videos:
   - videoid: rDkat7hsfbA
-    video_type: youtube
+    videotype:
+    description:
   - videoid: 151827190
-    video_type: vimeo
+    videotype:
+    description:
   - videoid: 228801970
-    video_type: vimeo
+    videotype:
+    description:
 images:
   - image_path: /uploads/sutton taylor2.jpg
     description: Sutton Taylor
@@ -27,10 +30,13 @@ images:
 
 		{% for video in page.videos %}
 	    {% if video.videoid %}
-	    	{% if video.video_type == 'youtube' %}
+	    	{% if video.videotype == 'youtube' %}
 	    		{% include youtubeplayer.html id=video.videoid %}
 	    	{% else %}
 					{% include vimeoplayer.html id=video.videoid %}
+	    	{% endif %}
+	    	{% if video.description %}
+	    		<p class="description">{{ video.description }}</p>
 	    	{% endif %}
 	    {% endif %}
 		{% endfor %}
