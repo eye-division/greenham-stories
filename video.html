@@ -30,7 +30,7 @@ images:
 
 		{% for video in page.videos %}
 	    {% if video.videoid %}
-	    	{% if video.videotype == 'youtube' %}
+	    	{% if video.videotype == 'YouTube' %}
 	    		{% include youtubeplayer.html id=video.videoid %}
 	    	{% else %}
 					{% include vimeoplayer.html id=video.videoid %}
