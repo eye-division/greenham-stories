@@ -32,9 +32,6 @@ imagecdn:
 
 # Collections
 collections:
-    projects:
-        output: true
-        permalink: /projects/:path/
 
 videotypes:
     - YouTube
@@ -42,12 +39,7 @@ videotypes:
 
 # Defaults
 defaults:
-    -
-        scope:
-            path: ""
-            type: "projects"
-        values:
-            layout: "project"
+
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -130,10 +122,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
+    fb_image: "/assets/rosa-logo.png"
+    fb_image_width: 600
+    fb_image_height: 566
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/rosa-logo.png"
 

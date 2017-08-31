@@ -331,16 +331,16 @@ main {
     }
     .title, .subtitle {
       clear: both;
-      float: right;
+
       font-size: 1.6rem;
-      text-align: right;
+
       padding: 0.5em 1em;
-      background-color: rgba($background-grey, 0.7);
+      background-color: rgba($background-grey, 0.9);
       border: 1px solid rgba($background-grey, 0.9);
       color: $white;
       font-family: $base-font-family;
       text-transform: uppercase;
-      max-width: 7em;
+      max-width: 11em;
       line-height: 1.4em;
       @include media($mobile) {
         font-size: 2rem;
@@ -349,6 +349,8 @@ main {
     }
     .title {
       max-width: 17em;
+      font-weight: bold;
+      font-size: 2.2rem;
     }
   }
 }
