@@ -4,18 +4,12 @@ title: Video
 permalink: /video/
 main_image_path: /uploads/landing-lights-shutterstock-172828403.jpg
 videos:
-  - video_html: >-
-      <p><iframe width="1280" height="720"
-      src="https://www.youtube-nocookie.com/embed/rDkat7hsfbA?rel=0"
-      frameborder="0" allowfullscreen=""></iframe></p>
-  - video_html: >-
-      <p><iframe src="https://player.vimeo.com/video/151827190" width="640"
-      height="360" frameborder="0" webkitallowfullscreen=""
-      mozallowfullscreen="" allowfullscreen=""></iframe></p>
-  - video_html: >-
-      <p>&lt;iframe src="https://player.vimeo.com/video/228801970" width="640"
-      height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
-      allowfullscreen&gt;&lt;/iframe&gt;</p>
+  - videoid: rDkat7hsfbA
+    video_type: youtube
+  - videoid: 151827190
+    video_type: vimeo
+  - videoid: 228801970
+    video_type: vimeo
 images:
   - image_path: /uploads/sutton taylor2.jpg
     description: Sutton Taylor
@@ -32,8 +26,12 @@ images:
 {% if page.videos %}
 
 		{% for video in page.videos %}
-	    {% if video.video_html %}
-	    	{{ video.video_html }}
+	    {% if video.videoid %}
+	    	{% if video.video_type == 'youtube' %}
+	    		{% include youtubeplayer.html id=video.videoid %}
+	    	{% else %}
+					{% include vimeoplayer.html id=video.videoid %}
+	    	{% endif %}
 	    {% endif %}
 		{% endfor %}
 

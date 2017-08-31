@@ -71,6 +71,7 @@ blockquote {
 
 }
 
+
 /*
 *	Navigation
 */
@@ -520,7 +521,7 @@ main {
       @include clearfix;
     }
 
-    .with-media {
+    /*.with-media {
       box-sizing: border-box;
       width: 60%;
       float: left;
@@ -531,6 +532,9 @@ main {
       box-sizing: border-box;
       width: 40%;
       float: right;
+    }*/
+    .media {
+      padding: 1em 0;
     }
 
     .image-gallery {
