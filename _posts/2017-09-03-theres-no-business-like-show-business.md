@@ -7,14 +7,12 @@ video_embed:
 images:
   - image_path: /uploads/photo-one.jpg
     description:
-  - image_path: /uploads/photo-one.jpg
+  - image_path: /uploads/photo-two.jpg
     description:
 ---
 
 
-**‘There’s no business like show business’**
-
-*Last minute preparations ahead of the main Greenham Common event*
+**‘Last minute preparations ahead of the main Greenham Common event’**
 
 After months and months of planning, the final few rehearsals are taking place ahead of the main Greenham Common event on Friday the 8th and Saturday the 9th September. The free outdoor show takes place on the Common from 6.30-9.30pm. There will be a festival feel with performances taking place across the central runway site, culminating in a grande finale show from 8.30-9.30pm.
 
