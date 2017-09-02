@@ -2,7 +2,7 @@
 layout: post
 title: There's no business like show business
 date: 2017-09-03 00:00:00
-main_image_path:
+main_image_path: /uploads/PHOTO ONE.jpg
 video_embed:
 images:
   - image_path: /uploads/photo-one.jpg
