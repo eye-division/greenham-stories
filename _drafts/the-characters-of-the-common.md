@@ -2,9 +2,11 @@
 layout: post
 title: The Characters of the Common
 date:
-main_image_path:
+main_image_path: /uploads/common.jpg
 video_embed:
 images:
-  - image_path:
+  - image_path: /uploads/common-1.jpg
     description:
 ---
+
+
