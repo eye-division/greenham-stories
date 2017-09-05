@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The Characters of the Common
-date:
+date: 2017-09-05 19:35:30
 main_image_path:
 video_embed:
 images:
-  - image_path: /uploads/common.jpg
+  - image_path: /uploads/common-2.jpg
     description: 'Corn Exchange, Newbury'
 ---
 
