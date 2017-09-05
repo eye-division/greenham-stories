@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Characters of the Common
-date: 2017-09-05 19:35:30
-main_image_path:
+date: 2017-09-05 19:35:00
+main_image_path: /uploads/BBCBERKS.jpg
 video_embed:
 images:
   - image_path: /uploads/common-2.jpg
