@@ -10,7 +10,10 @@
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <i class="fa fa-bars"></i>
     </a>
-    <nav role="navigation">
+    <a href="https://www.hlf.org.uk/" class="logo">
+        <img src="/assets/heritage-lottery.png" alt="Funded by the Heritage Lottery Fund">
+      </a>
+      <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
         {% for link in site.data.nav %}
           <li class="nav-link{% if page.url == link.href %} active{% endif %}"><a href="{{ link.href | prepend: site.baseurl }}">{{ link.title }}</a>
@@ -24,8 +27,9 @@
           </li>
           {% endif %}
         {% endfor %}
-        
+
       </ul>
+
     </nav>
   </div>
 </header>
