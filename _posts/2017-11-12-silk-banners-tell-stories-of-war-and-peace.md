@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Silk banners tell stories of war and peace
-date:
+date: 2017-11-12 22:25:55
 main_image_path: /uploads/greenhambanners.jpg
 video_embed: >-
   <iframe
