@@ -1,0 +1,10 @@
+---
+layout: post
+title: BBC Greenham Stories
+date:
+main_image_path:
+video_embed:
+images:
+  - image_path:
+    description:
+---
