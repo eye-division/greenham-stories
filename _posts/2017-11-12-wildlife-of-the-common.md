@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wildlife of the Common
-date:
+date: 2017-11-12 22:11:33
 main_image_path: /uploads/Greenham common.jpg
 video_embed: >-
   <iframe
