@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pragna Hay and the arrival of the Ugandan Asian Refugees
-date:
+date: 2017-11-12 23:14:17
 main_image_path: /uploads/IMG_3382.JPG
 video_embed: >-
   <iframe
