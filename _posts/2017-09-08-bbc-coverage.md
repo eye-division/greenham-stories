@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BBC Coverage
-date: 2017-11-12 21:45:12
+date: 2017-09-08 21:45:00
 main_image_path: /uploads/landing-lights-shutterstock-172828403.jpg
 video_embed: >-
   <iframe
