@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beer and Football
-date:
+date: 2017-11-12 23:18:10
 main_image_path: /uploads/Greenham Image Grafitti - artwork  Mohammed Ali.jpg
 video_embed: >-
   <iframe
