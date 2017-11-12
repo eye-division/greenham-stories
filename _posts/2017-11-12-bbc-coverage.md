@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BBC Coverage
-date:
+date: 2017-11-12 21:45:12
 main_image_path: /uploads/landing-lights-shutterstock-172828403.jpg
 video_embed: >-
   <iframe
@@ -14,10 +14,8 @@ images:
 ---
 
 
-BBC Radio Berkshire and BBC South Today both covered the Greenham Common talks programme and the Greenham: 100 Years of War and Peace.&nbsp; Here are links to some of the coverage
+BBC Radio Berkshire and BBC South Today both covered the Greenham Common talks programme and the Greenham: 100 Years of War and Peace.  Here are links to some of the coverage
 
 http://www.bbc.co.uk/programmes/p05fr1r7 - Andrew Peach Breakfast Show Friday 8 September 2017
 
 http://www.bbc.co.uk/news/uk-england-berkshire-41199648 - the many faces of Greenham Common
-
-&nbsp;
