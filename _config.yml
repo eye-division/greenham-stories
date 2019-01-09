@@ -1,9 +1,7 @@
-# External gems
-gems:
-  - jekyll-sitemap
+# External gems - updated to plugins in jekyll v3.6
+plugins:
+   - jekyll-sitemap
 
-exclude:
-  - "/vendor/"
 
 # Site settings
 title: Greenham Common Stories
@@ -13,15 +11,13 @@ subtitle: <strong>100 years of War and Peace</strong>
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.greenhamcommonstories.co.uk"
+url: "https://www.greenhamcommonstories.co.uk"
 logo: "/assets/logo.png"
 email: fetedaycontact@gmail.com
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
+
 permalink: /posts/:title
 
 # Image CDN
